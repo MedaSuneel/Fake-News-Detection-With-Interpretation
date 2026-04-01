@@ -75,6 +75,7 @@ Due to GitHub file size limitations, trained models are not included in this rep
 👉 You must download them separately from the link below.
 
 BERT (Text Model) : suneelmeda123/fake-news-bert-model
+
 EfficientNet-B0 (Image Model) : suneelmeda123/fake-news-efficientnet
 
 After downloading:
