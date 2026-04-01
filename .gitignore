@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Datasets (too large)
+datasets/
+
+# Model weights (optional decision)
+*.pth
+*.pkl
+
+# OS files
+.DS_Store
+
+*.safetensors
+backend/models/
