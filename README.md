@@ -7,41 +7,66 @@ This project is a Fake News Detection System with Explainable AI (XAI) that dete
 The system combines Machine Learning, Deep Learning, and Explainability techniques to improve transparency and trust in AI-based predictions.
 
 🚀 Features
+
 🧠 Text-based Fake News Detection
+
 Models: Logistic Regression, XGBoost, BERT
+
 🖼️ Image-based Fake News Detection
+
 Models: CNN, EfficientNet-B0
+
 🔍 Explainability
+
 LIME (Local explanations)
-SHAP (Feature importance)
+
 Grad-CAM (for image visualization)
-🌐 Source Verification
-Fetches trusted sources using Search APIs
+
+
 💻 Full Stack Web App
+
 Frontend: React + Tailwind CSS
+
 Backend: FastAPI
+
 
 📂 Project Structure
 
 fake-news-detection/
+
 │
 ├── backend/
+
 │   ├── app.py
+
 │   ├── models/
+
 │   │   ├── text_model/
+
 │   │   └── image_model/
+
 │   ├── routes/
+
 │   ├── utils/
+
 │   └── requirements.txt
+
 │
 ├── frontend/
+
 │   ├── src/
+
 │   ├── public/
+
 │   └── package.json
+
 │
 ├── datasets/
+
 ├── notebooks/
+
 └── README.md
+
 
 ⚠️ Note About Models
 
@@ -61,11 +86,16 @@ After downloading:
 └── image_model/
 
 🛠️ Installation & Setup
+
 1️⃣ Clone Repository
+
 git clone https://github.com/your-username/fake-news-detection.git
+
 cd fake-news-detection
 
+
 2️⃣ Backend Setup (FastAPI)
+
 cd backend
 
 # Create virtual environment
