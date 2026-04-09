@@ -135,35 +135,35 @@ Explanation (LIME/SHAP/Grad-CAM)
 
 🧠 Tech Stack
 
-Frontend
-React.js
+Frontend - 
+React.js,
 Tailwind CSS
 
-Backend
-FastAPI
+Backend - 
+FastAPI,
 Python
 
-Machine Learning
-Scikit-learn
-XGBoost
+Machine Learning -
+Scikit-learn,
+XGBoost,
 Transformers (BERT)
 
-Deep Learning
-PyTorch / TensorFlow
+Deep Learning -
+PyTorch / TensorFlow,
 EfficientNet-B0
 
-Explainable AI
-LIME
+Explainable AI -
+LIME,
 Grad-CAM
 
-📊 Datasets Used
-FakeNewsNet (Text)
+📊 Datasets Used -
+FakeNewsNet (Text),
 Fakeddit (Image)
 
-⚡ Future Improvements
-Real-time news scraping
-Multilingual support
-Mobile app version
+⚡ Future Improvements - 
+Real-time news scraping,
+Multilingual support,
+Mobile app version,
 Improved model accuracy
 
 
